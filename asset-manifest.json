@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/as7545/quizappp/static/css/main.ec9d93a7.css",
+    "main.js": "/as7545/quizappp/static/js/main.a2a062f3.js",
+    "static/js/787.13d76ca7.chunk.js": "/as7545/quizappp/static/js/787.13d76ca7.chunk.js",
+    "index.html": "/as7545/quizappp/index.html",
+    "main.ec9d93a7.css.map": "/as7545/quizappp/static/css/main.ec9d93a7.css.map",
+    "main.a2a062f3.js.map": "/as7545/quizappp/static/js/main.a2a062f3.js.map",
+    "787.13d76ca7.chunk.js.map": "/as7545/quizappp/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec9d93a7.css",
+    "static/js/main.a2a062f3.js"
+  ]
+}
